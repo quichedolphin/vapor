@@ -9,7 +9,7 @@ atlassian*
 /.idea
 /.gitattributes
 
-/app/etc/env.phpim
+/app/etc/env.php
 
 /bin
 
