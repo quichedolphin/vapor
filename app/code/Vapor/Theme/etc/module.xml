@@ -4,6 +4,7 @@
 	<module name="Vapor_Theme" setup_version="1.0.0">
 		<sequence>
 			<module name="Magento_Theme" />
+			<module name="Magento_Checkout" />
 		</sequence>
 	</module>
 </config>
